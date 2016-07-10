@@ -12,14 +12,6 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>jersey-helloworld-serlvet</servlet-name>
-    <url-pattern>/blog/*</url-pattern>
+    <url-pattern>/*</url-pattern>
   </servlet-mapping>
-  <filter>
-    <filter-name>cors</filter-name>
-    <filter-class>com.trimc.blogger.samplewebapp.CorsFilter</filter-class>
-  </filter>
-  <filter-mapping>
-    <filter-name>cors</filter-name>
-    <url-pattern>/blog/*</url-pattern>
-  </filter-mapping>
 </web-app>

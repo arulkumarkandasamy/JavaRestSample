@@ -2,8 +2,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.trimc.blogger.jaxrs.minimalist</groupId>
-	<artifactId>jaxrs-minimalist</artifactId>
+	<groupId>com.arul.jaxrs.sample</groupId>
+	<artifactId>JavaRestSample</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
 
