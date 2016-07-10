@@ -39,7 +39,7 @@
 				<configuration>
 					<url>http://localhost:8080/manager/text</url>
 					<server>TomcatServer</server>
-					<path>/sample</path>
+					<path>/JavaRestSample</path>
 					<username>arul</username>
 					<password>arul123</password>
 				</configuration>
