@@ -40,8 +40,8 @@
 					<url>http://localhost:8080/manager/text</url>
 					<server>TomcatServer</server>
 					<path>/sample</path>
-					<username>craig</username>
-					<password>password</password>
+					<username>arul</username>
+					<password>arul123</password>
 				</configuration>
 			</plugin>
 		</plugins>
